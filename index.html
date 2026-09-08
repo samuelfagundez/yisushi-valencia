@@ -1,0 +1,324 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Yisushi Valencia — Restaurante japonés en L'Olivereta</title>
+  <meta name="description" content="Yisushi Valencia, restaurante de sushi en C/ de Llorca, 11 (L'Olivereta, València). Valorado con 4.7★ y más de 350 reseñas. Reserva tu mesa online." />
+  <meta property="og:title" content="Yisushi Valencia — Restaurante de sushi en Valencia" />
+  <meta property="og:description" content="Sushi fresco, ambiente agradable y muy buen precio. C/ de Llorca, 11, València. Valoración 4.7★ (358 reseñas)." />
+  <meta property="og:image" content="data/fotos/02.jpg" />
+  <meta property="og:type" content="restaurant" />
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><circle cx=%2250%22 cy=%2250%22 r=%2245%22 fill=%22%23b3282a%22/></svg>" />
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;500;600;700&family=Zen+Kaku+Gothic+New:wght@500;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+
+  <!-- ============ BARRA DE NAVEGACIÓN ============ -->
+  <header class="barra" id="barra">
+    <div class="contenedor barra__contenido">
+      <a href="#inicio" class="marca">Yisushi <span>Valencia</span></a>
+      <nav class="nav">
+        <ul class="nav__enlaces" id="nav-enlaces">
+          <li><a href="#sobre" class="nav__enlace">Nosotros</a></li>
+          <li><a href="#horario" class="nav__enlace">Horario</a></li>
+          <li><a href="#galeria" class="nav__enlace">Galería</a></li>
+          <li><a href="#resenas" class="nav__enlace">Reseñas</a></li>
+          <li><a href="#contacto" class="nav__enlace">Cómo llegar</a></li>
+        </ul>
+        <a href="https://reservation.dish.co/widget/hydra-245e38b1-57a8-4af9-b0f3-d51f0a18aa9f" target="_blank" rel="noopener" class="boton boton--primario nav__reserva">Reservar mesa</a>
+        <button class="nav__movil-boton" id="boton-movil" aria-label="Abrir menú">☰</button>
+      </nav>
+    </div>
+  </header>
+
+  <!-- ============ HERO ============ -->
+  <section class="hero" id="inicio">
+    <div class="hero__fondo" id="hero-fondo">
+      <img src="data/fotos/02.jpg" alt="Plato de sushi surtido de Yisushi Valencia" class="activa" />
+      <img src="data/fotos/08.jpg" alt="Interior del restaurante Yisushi Valencia" />
+      <img src="data/fotos/04.jpg" alt="Selección de nigiris y makis" />
+    </div>
+    <div class="contenedor hero__contenido">
+      <div class="hero__valoracion">★★★★★ <strong>4.7</strong> · 358 reseñas en Google</div>
+      <h1>Sushi fresco y <em>auténtico</em> en el corazón de L'Olivereta</h1>
+      <p class="hero__subtitulo">Buffet y carta de cocina japonesa con producto de calidad, buen ambiente y una relación calidad-precio que enamora a Valencia entera.</p>
+      <div class="hero__acciones">
+        <a href="https://reservation.dish.co/widget/hydra-245e38b1-57a8-4af9-b0f3-d51f0a18aa9f" target="_blank" rel="noopener" class="boton boton--primario">Reservar mesa</a>
+        <a href="#contacto" class="boton boton--fantasma">Cómo llegar</a>
+      </div>
+      <div class="hero__datos">
+        <div class="hero__dato">
+          <span>Precio medio</span>
+          <strong>20 € – 30 €</strong>
+        </div>
+        <div class="hero__dato">
+          <span>Dirección</span>
+          <strong>C/ de Llorca, 11</strong>
+        </div>
+        <div class="hero__dato">
+          <span>Teléfono</span>
+          <strong>647 08 08 21</strong>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ============ SOBRE NOSOTROS ============ -->
+  <section class="seccion" id="sobre">
+    <div class="contenedor sobre">
+      <div class="sobre__galeria reveal">
+        <img src="data/fotos/01.jpg" alt="Presentación de un plato de sushi en Yisushi Valencia" class="principal" loading="lazy" />
+        <img src="data/fotos/05.jpg" alt="Detalle de nigiri de Yisushi Valencia" class="secundaria" loading="lazy" />
+        <img src="data/fotos/06.jpg" alt="Ambiente del restaurante Yisushi Valencia" class="secundaria" loading="lazy" />
+      </div>
+      <div class="sobre__texto reveal">
+        <span class="etiqueta">Sobre nosotros</span>
+        <h2>Cocina japonesa cuidada, en un ambiente cercano</h2>
+        <p>En Yisushi Valencia elaboramos cada plato con esmero: una proporción equilibrada de arroz y pescado, producto fresco y una atención rápida y amable que nuestros clientes destacan una y otra vez.</p>
+        <p>Estamos en C/ de Llorca, 11, en el barrio de L'Olivereta (València). Un lugar apto para comer en pareja, en familia o en grupo, tanto para comer como para cenar.</p>
+        <ul class="sobre__lista">
+          <li>Admite reservas</li>
+          <li>Para comer o para llevar</li>
+          <li>Apto para niños y grupos</li>
+          <li>Entrada y asientos accesibles</li>
+          <li>Comidas, cenas y postres</li>
+          <li>Cerveza y vino</li>
+        </ul>
+      </div>
+    </div>
+  </section>
+
+  <!-- ============ HORARIO / INFO ============ -->
+  <section class="seccion seccion--suave" id="horario">
+    <div class="contenedor">
+      <div class="encabezado-seccion reveal">
+        <span class="etiqueta">Información práctica</span>
+        <h2>Horario, reservas y ubicación</h2>
+        <p>Todo lo que necesitas saber para venir a comer o cenar con nosotros.</p>
+      </div>
+      <div class="info-grid">
+        <div class="tarjeta reveal">
+          <h3><span class="icono">🕒</span> Horario</h3>
+          <ul class="horario-lista" id="lista-horario">
+            <li class="cerrado"><span class="dia">Lunes</span><strong>Cerrado</strong></li>
+            <li><span class="dia">Martes</span><span>13:00–16:00, 20:00–23:00</span></li>
+            <li><span class="dia">Miércoles</span><span>13:00–16:00, 20:00–23:00</span></li>
+            <li><span class="dia">Jueves</span><span>13:00–16:00, 20:00–23:00</span></li>
+            <li><span class="dia">Viernes</span><span>13:00–16:00, 20:00–23:30</span></li>
+            <li><span class="dia">Sábado</span><span>13:00–16:00, 20:00–23:30</span></li>
+            <li><span class="dia">Domingo</span><span>13:00–16:00, 20:00–23:00</span></li>
+          </ul>
+        </div>
+        <div class="tarjeta reveal">
+          <h3><span class="icono">📍</span> Ubicación</h3>
+          <p>C/ de Llorca, 11, L'Olivereta<br>46018 València, Valencia</p>
+          <ul class="tarjeta__lista">
+            <li><a href="https://www.google.com/maps/dir//C.+de+Llorca,+11,+L'Olivereta,+46018+Val%C3%A8ncia,+Valencia" target="_blank" rel="noopener">Cómo llegar (Google Maps) →</a></li>
+            <li><a href="https://maps.google.com/?cid=10194552463583630112" target="_blank" rel="noopener">Ver ficha en Google Maps →</a></li>
+          </ul>
+        </div>
+        <div class="tarjeta reveal">
+          <h3><span class="icono">📞</span> Contacto</h3>
+          <p>Llama o reserva online, lo que te resulte más cómodo.</p>
+          <ul class="tarjeta__lista">
+            <li><a href="tel:+34647080821">+34 647 08 08 21</a></li>
+            <li><a href="https://reservation.dish.co/widget/hydra-245e38b1-57a8-4af9-b0f3-d51f0a18aa9f" target="_blank" rel="noopener">Reservar mesa online →</a></li>
+            <li><a href="https://instagram.com/yisushi_valencia" target="_blank" rel="noopener">@yisushi_valencia en Instagram →</a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ============ GALERÍA ============ -->
+  <section class="seccion" id="galeria">
+    <div class="contenedor">
+      <div class="encabezado-seccion reveal">
+        <span class="etiqueta">Galería</span>
+        <h2>Un vistazo a nuestra cocina</h2>
+        <p>Fotografías compartidas por nuestros propios clientes en Google Maps.</p>
+      </div>
+      <div class="galeria reveal" id="galeria-fotos">
+        <button class="g1" data-index="0" data-autor="© Mr V"><img src="data/fotos/01.jpg" alt="Foto 1 de Yisushi Valencia" loading="lazy" /></button>
+        <button class="g2" data-index="1" data-autor="© Junze Chen"><img src="data/fotos/02.jpg" alt="Foto 2 de Yisushi Valencia" loading="lazy" /></button>
+        <button class="g3" data-index="2" data-autor="© Enriiccc"><img src="data/fotos/03.jpg" alt="Foto 3 de Yisushi Valencia" loading="lazy" /></button>
+        <button class="g4" data-index="3" data-autor="© Junze Chen"><img src="data/fotos/04.jpg" alt="Foto 4 de Yisushi Valencia" loading="lazy" /></button>
+        <button class="g5" data-index="4" data-autor="© Gio Gómez Leiva"><img src="data/fotos/05.jpg" alt="Foto 5 de Yisushi Valencia" loading="lazy" /></button>
+        <button class="g6" data-index="5" data-autor="© Andrea N C"><img src="data/fotos/06.jpg" alt="Foto 6 de Yisushi Valencia" loading="lazy" /></button>
+        <button class="g7" data-index="6" data-autor="© Martapg23"><img src="data/fotos/07.jpg" alt="Foto 7 de Yisushi Valencia" loading="lazy" /></button>
+        <button class="g8" data-index="7" data-autor="© hugo"><img src="data/fotos/08.jpg" alt="Foto 8 de Yisushi Valencia" loading="lazy" /></button>
+        <button class="g9" data-index="8" data-autor="© Mr V"><img src="data/fotos/09.jpg" alt="Foto 9 de Yisushi Valencia" loading="lazy" /></button>
+        <button class="g10" data-index="9" data-autor="© Junze Chen"><img src="data/fotos/10.jpg" alt="Foto 10 de Yisushi Valencia" loading="lazy" /></button>
+      </div>
+      <p style="text-align:center; margin-top:20px; font-size:0.8rem; color:var(--texto-claro);">Fotos y atribuciones cortesía de los usuarios de Google Maps.</p>
+    </div>
+  </section>
+
+  <!-- Lightbox de la galería -->
+  <div class="lightbox" id="lightbox" hidden>
+    <button class="lightbox__cerrar" id="lightbox-cerrar" aria-label="Cerrar">✕</button>
+    <figure class="lightbox__figura">
+      <img src="" alt="" id="lightbox-imagen" />
+      <figcaption id="lightbox-leyenda"></figcaption>
+    </figure>
+  </div>
+
+  <!-- ============ RESEÑAS ============ -->
+  <section class="seccion seccion--oscura" id="resenas">
+    <div class="contenedor">
+      <div class="encabezado-seccion reveal">
+        <span class="etiqueta">Reseñas de clientes</span>
+        <h2>Lo que opinan de nosotros</h2>
+        <p>★★★★★ 4.7 sobre 5 · 358 reseñas en Google Maps</p>
+      </div>
+      <div class="resenas">
+        <article class="resena reveal">
+          <div class="resena__estrellas">★★★★★</div>
+          <p>"Todo muy rico y el personal muy amable. Un ambiente muy agradable. Hemos repetido y lo seguiremos haciendo. Muy buen precio."</p>
+          <div class="resena__autor"><strong>Yolanda Vg</strong><span>Hace 5 meses</span></div>
+        </article>
+        <article class="resena reveal">
+          <div class="resena__estrellas">★★★★★</div>
+          <p>"Buena calidad del producto. Proporción muy equilibrada de arroz y pescado, y atención inmejorable."</p>
+          <div class="resena__autor"><strong>ZAMPI NEWS</strong><span>Hace 1 mes</span></div>
+        </article>
+        <article class="resena reveal">
+          <div class="resena__estrellas">★★★★★</div>
+          <p>"Comida buenísima y con una gran presentación. Servicio rápido y amable. Encima más económico que otros de peor calidad, realmente recomendable."</p>
+          <div class="resena__autor"><strong>Ana Alonso</strong><span>Hace 5 meses</span></div>
+        </article>
+        <article class="resena reveal">
+          <div class="resena__estrellas">★★★★★</div>
+          <p>"He probado muchos buffets en Valencia y realmente este es un 20/10. Buena calidad-precio, los platos elaborados y se nota que están hechos con mucho esmero y amor."</p>
+          <div class="resena__autor"><strong>Vin</strong><span>Hace 2 meses</span></div>
+        </article>
+        <article class="resena reveal">
+          <div class="resena__estrellas">★★★★★</div>
+          <p>"He ido solo a cenar, la atención fantástica, me ha recibido una chica muy maja. La comida muy buena. Recomiendo ir definitivamente."</p>
+          <div class="resena__autor"><strong>Xiang Mo ye</strong><span>Hace 5 meses</span></div>
+        </article>
+      </div>
+      <div class="resenas__cta reveal">
+        <a href="https://www.google.com/maps/place//data=!4m4!3m3!1s0xd604fe335e061bb:0x8d7a5373dbfc5320!9m1!1b1" target="_blank" rel="noopener" class="boton boton--fantasma">Ver todas las reseñas en Google →</a>
+      </div>
+    </div>
+  </section>
+
+  <!-- ============ CONTACTO / MAPA ============ -->
+  <section class="seccion" id="contacto">
+    <div class="contenedor">
+      <div class="encabezado-seccion reveal">
+        <span class="etiqueta">Cómo llegar</span>
+        <h2>Te esperamos en L'Olivereta</h2>
+        <p>Estamos a un paso, ven a probar nuestra cocina japonesa.</p>
+      </div>
+      <div class="contacto reveal">
+        <div class="contacto__mapa">
+          <iframe
+            src="https://www.google.com/maps?q=39.4678969,-0.3919639&hl=es&z=16&output=embed"
+            title="Mapa de ubicación de Yisushi Valencia"
+            loading="lazy"
+            referrerpolicy="no-referrer-when-downgrade">
+          </iframe>
+        </div>
+        <div class="contacto__panel">
+          <div class="contacto__fila">
+            <div class="icono">📍</div>
+            <div>
+              <h4>Dirección</h4>
+              <p>C/ de Llorca, 11, L'Olivereta, 46018 València, Valencia</p>
+            </div>
+          </div>
+          <div class="contacto__fila">
+            <div class="icono">📞</div>
+            <div>
+              <h4>Teléfono</h4>
+              <a href="tel:+34647080821">+34 647 08 08 21</a>
+            </div>
+          </div>
+          <div class="contacto__fila">
+            <div class="icono">🕒</div>
+            <div>
+              <h4>Horario de hoy</h4>
+              <p id="horario-hoy">Consulta el horario completo arriba</p>
+            </div>
+          </div>
+          <div class="contacto__fila">
+            <div class="icono">💳</div>
+            <div>
+              <h4>Formas de pago</h4>
+              <p>Tarjeta de crédito, débito y pago sin contacto (NFC)</p>
+            </div>
+          </div>
+          <div class="contacto__redes">
+            <a href="https://instagram.com/yisushi_valencia" target="_blank" rel="noopener" aria-label="Instagram">IG</a>
+            <a href="tel:+34647080821" aria-label="Llamar">☎</a>
+            <a href="https://reservation.dish.co/widget/hydra-245e38b1-57a8-4af9-b0f3-d51f0a18aa9f" target="_blank" rel="noopener" aria-label="Reservar">📅</a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ============ CTA FINAL ============ -->
+  <section class="seccion cta-final">
+    <div class="contenedor">
+      <span class="etiqueta">Reserva ya</span>
+      <h2>¿Te apetece sushi hoy? Reserva tu mesa en un minuto</h2>
+      <p>Elige día y hora desde nuestro sistema de reservas online o llámanos directamente.</p>
+      <div class="cta-final__acciones">
+        <a href="https://reservation.dish.co/widget/hydra-245e38b1-57a8-4af9-b0f3-d51f0a18aa9f" target="_blank" rel="noopener" class="boton boton--primario">Reservar online</a>
+        <a href="tel:+34647080821" class="boton boton--fantasma">Llamar ahora</a>
+      </div>
+    </div>
+  </section>
+
+  <!-- ============ FOOTER ============ -->
+  <footer class="pie">
+    <div class="contenedor">
+      <div class="pie__contenido">
+        <div class="pie__marca">
+          <a href="#inicio" class="marca">Yisushi <span>Valencia</span></a>
+          <p>Restaurante de sushi en el barrio de L'Olivereta, València. Cocina japonesa fresca, buen ambiente y muy buena relación calidad-precio.</p>
+        </div>
+        <div class="pie__columnas">
+          <div class="pie__columna">
+            <h4>Navegación</h4>
+            <ul>
+              <li><a href="#sobre">Nosotros</a></li>
+              <li><a href="#horario">Horario</a></li>
+              <li><a href="#galeria">Galería</a></li>
+              <li><a href="#resenas">Reseñas</a></li>
+              <li><a href="#contacto">Cómo llegar</a></li>
+            </ul>
+          </div>
+          <div class="pie__columna">
+            <h4>Contacto</h4>
+            <ul>
+              <li><a href="tel:+34647080821">+34 647 08 08 21</a></li>
+              <li><a href="https://instagram.com/yisushi_valencia" target="_blank" rel="noopener">@yisushi_valencia</a></li>
+              <li><a href="https://reservation.dish.co/widget/hydra-245e38b1-57a8-4af9-b0f3-d51f0a18aa9f" target="_blank" rel="noopener">Reservar mesa</a></li>
+            </ul>
+          </div>
+        </div>
+      </div>
+      <div class="pie__inferior">
+        <span>© <span id="anio"></span> Yisushi Valencia. Todos los derechos reservados.</span>
+        <span>Datos y fotos vía Google Maps, con atribución a sus autores.</span>
+      </div>
+    </div>
+  </footer>
+
+  <!-- ============ BOTONES FLOTANTES ============ -->
+  <div class="flotante">
+    <a href="https://reservation.dish.co/widget/hydra-245e38b1-57a8-4af9-b0f3-d51f0a18aa9f" target="_blank" rel="noopener" class="reserva" aria-label="Reservar mesa" title="Reservar mesa">📅</a>
+    <a href="tel:+34647080821" class="whatsapp" style="background:#b3282a;" aria-label="Llamar" title="Llamar">☎</a>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
