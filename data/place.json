@@ -1,0 +1,371 @@
+{
+  "schemaVersion": 2,
+  "source": {
+    "shortUrl": "https://maps.app.goo.gl/nGgjzbrfwDu9wWA49",
+    "expandedUrl": "https://www.google.com/maps/place/YISUSHI+VALENCIA/@39.467901,-0.3945442,17z/data=!3m1!4b1!4m6!3m5!1s0xd604fe335e061bb:0x8d7a5373dbfc5320!8m2!3d39.4678969!4d-0.3919639!16s%2Fg%2F11yx4lyqrx?entry=tts&g_ep=EgoyMDI2MDkwMi4wIPu8ASoASAFQAw%3D%3D&skid=a2ef925a-26f0-4921-9753-df9f15fc379c&ucbcb=1",
+    "googleMapsUri": "https://maps.google.com/?cid=10194552463583630112&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "placeId": "ChIJu2HgNeNPYA0RIFP823NTeo0",
+    "featureId": "0xd604fe335e061bb:0x8d7a5373dbfc5320",
+    "gmapsPlaceRef": "/g/11yx4lyqrx",
+    "provider": "google-places-api-v1",
+    "fetchedAt": "2026-09-08T22:03:31.697Z"
+  },
+  "name": "YISUSHI VALENCIA",
+  "rating": {
+    "score": 4.7,
+    "count": 358
+  },
+  "phone": "+34 647 08 08 21",
+  "phoneNational": "647 08 08 21",
+  "hours": {
+    "weekly": [
+      "lunes: Cerrado",
+      "martes: 13:00–16:00, 20:00–23:00",
+      "miércoles: 13:00–16:00, 20:00–23:00",
+      "jueves: 13:00–16:00, 20:00–23:00",
+      "viernes: 13:00–16:00, 20:00–23:30",
+      "sábado: 13:00–16:00, 20:00–23:30",
+      "domingo: 13:00–16:00, 20:00–23:00"
+    ],
+    "periods": [
+      {
+        "open": {
+          "day": 0,
+          "hour": 13,
+          "minute": 0
+        },
+        "close": {
+          "day": 0,
+          "hour": 16,
+          "minute": 0
+        }
+      },
+      {
+        "open": {
+          "day": 0,
+          "hour": 20,
+          "minute": 0
+        },
+        "close": {
+          "day": 0,
+          "hour": 23,
+          "minute": 0
+        }
+      },
+      {
+        "open": {
+          "day": 2,
+          "hour": 13,
+          "minute": 0
+        },
+        "close": {
+          "day": 2,
+          "hour": 16,
+          "minute": 0
+        }
+      },
+      {
+        "open": {
+          "day": 2,
+          "hour": 20,
+          "minute": 0
+        },
+        "close": {
+          "day": 2,
+          "hour": 23,
+          "minute": 0
+        }
+      },
+      {
+        "open": {
+          "day": 3,
+          "hour": 13,
+          "minute": 0
+        },
+        "close": {
+          "day": 3,
+          "hour": 16,
+          "minute": 0
+        }
+      },
+      {
+        "open": {
+          "day": 3,
+          "hour": 20,
+          "minute": 0
+        },
+        "close": {
+          "day": 3,
+          "hour": 23,
+          "minute": 0
+        }
+      },
+      {
+        "open": {
+          "day": 4,
+          "hour": 13,
+          "minute": 0
+        },
+        "close": {
+          "day": 4,
+          "hour": 16,
+          "minute": 0
+        }
+      },
+      {
+        "open": {
+          "day": 4,
+          "hour": 20,
+          "minute": 0
+        },
+        "close": {
+          "day": 4,
+          "hour": 23,
+          "minute": 0
+        }
+      },
+      {
+        "open": {
+          "day": 5,
+          "hour": 13,
+          "minute": 0
+        },
+        "close": {
+          "day": 5,
+          "hour": 16,
+          "minute": 0
+        }
+      },
+      {
+        "open": {
+          "day": 5,
+          "hour": 20,
+          "minute": 0
+        },
+        "close": {
+          "day": 5,
+          "hour": 23,
+          "minute": 30
+        }
+      },
+      {
+        "open": {
+          "day": 6,
+          "hour": 13,
+          "minute": 0
+        },
+        "close": {
+          "day": 6,
+          "hour": 16,
+          "minute": 0
+        }
+      },
+      {
+        "open": {
+          "day": 6,
+          "hour": 20,
+          "minute": 0
+        },
+        "close": {
+          "day": 6,
+          "hour": 23,
+          "minute": 30
+        }
+      }
+    ],
+    "secondary": []
+  },
+  "socials": [],
+  "pricePerPerson": "20 € – 30 €",
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "links": {
+    "website": "https://reservation.dish.co/widget/hydra-245e38b1-57a8-4af9-b0f3-d51f0a18aa9f",
+    "menu": null,
+    "reservations": "https://reservation.dish.co/widget/hydra-245e38b1-57a8-4af9-b0f3-d51f0a18aa9f",
+    "reservable": true,
+    "googleMaps": "https://maps.google.com/?cid=10194552463583630112&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "directions": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0xd604fe335e061bb:0x8d7a5373dbfc5320!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "reviews": "https://www.google.com/maps/place//data=!4m4!3m3!1s0xd604fe335e061bb:0x8d7a5373dbfc5320!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "photos": "https://www.google.com/maps/place//data=!4m3!3m2!1s0xd604fe335e061bb:0x8d7a5373dbfc5320!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "writeReview": "https://www.google.com/maps/place//data=!4m3!3m2!1s0xd604fe335e061bb:0x8d7a5373dbfc5320!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "address": {
+    "formatted": "C/ de Llorca, 11, L'Olivereta, 46018 València, Valencia",
+    "short": "C. Lorca, 11, Valencia",
+    "components": {
+      "number": "11",
+      "street": "Carrer de Llorca",
+      "city": "València",
+      "province": "Valencia",
+      "region": "Comunidad Valenciana",
+      "country": "España",
+      "postalCode": "46018"
+    }
+  },
+  "location": {
+    "lat": 39.4678969,
+    "lng": -0.3919639
+  },
+  "primaryType": "sushi_restaurant",
+  "primaryTypeLabel": "Restaurante de sushi",
+  "types": [
+    "sushi_restaurant",
+    "japanese_restaurant",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "editorialSummary": null,
+  "utcOffsetMinutes": 120,
+  "features": [
+    "Admite reservas",
+    "Comer en el local",
+    "Para llevar",
+    "Apto para niños",
+    "Apto para grupos",
+    "Aseos",
+    "Comidas",
+    "Cenas",
+    "Cafés",
+    "Postres",
+    "Cerveza",
+    "Vino"
+  ],
+  "accessibility": [
+    "Entrada accesible",
+    "Asientos accesibles"
+  ],
+  "paymentOptions": {
+    "acceptsCreditCards": true,
+    "acceptsDebitCards": true,
+    "acceptsCashOnly": false,
+    "acceptsNfc": true
+  },
+  "parkingOptions": null,
+  "photos": [
+    {
+      "file": "fotos/01.jpg",
+      "widthPx": 3600,
+      "heightPx": 4800,
+      "attribution": "Mr V",
+      "attributionUri": "https://maps.google.com/maps/contrib/112966792912100238068"
+    },
+    {
+      "file": "fotos/02.jpg",
+      "widthPx": 4800,
+      "heightPx": 3600,
+      "attribution": "Junze Chen",
+      "attributionUri": "https://maps.google.com/maps/contrib/104296340803495546267"
+    },
+    {
+      "file": "fotos/03.jpg",
+      "widthPx": 3600,
+      "heightPx": 4800,
+      "attribution": "Enriiccc",
+      "attributionUri": "https://maps.google.com/maps/contrib/109177470642195263881"
+    },
+    {
+      "file": "fotos/04.jpg",
+      "widthPx": 4032,
+      "heightPx": 3024,
+      "attribution": "Junze Chen",
+      "attributionUri": "https://maps.google.com/maps/contrib/104296340803495546267"
+    },
+    {
+      "file": "fotos/05.jpg",
+      "widthPx": 2699,
+      "heightPx": 4800,
+      "attribution": "Gio Gómez Leiva",
+      "attributionUri": "https://maps.google.com/maps/contrib/104587052803966232954"
+    },
+    {
+      "file": "fotos/06.jpg",
+      "widthPx": 3600,
+      "heightPx": 4800,
+      "attribution": "Andrea N C",
+      "attributionUri": "https://maps.google.com/maps/contrib/105617468629851345024"
+    },
+    {
+      "file": "fotos/07.jpg",
+      "widthPx": 3024,
+      "heightPx": 4032,
+      "attribution": "Martapg23",
+      "attributionUri": "https://maps.google.com/maps/contrib/108582163365777741071"
+    },
+    {
+      "file": "fotos/08.jpg",
+      "widthPx": 4800,
+      "heightPx": 3600,
+      "attribution": "hugo",
+      "attributionUri": "https://maps.google.com/maps/contrib/106634753301583738070"
+    },
+    {
+      "file": "fotos/09.jpg",
+      "widthPx": 3560,
+      "heightPx": 4168,
+      "attribution": "Mr V",
+      "attributionUri": "https://maps.google.com/maps/contrib/112966792912100238068"
+    },
+    {
+      "file": "fotos/10.jpg",
+      "widthPx": 4800,
+      "heightPx": 3600,
+      "attribution": "Junze Chen",
+      "attributionUri": "https://maps.google.com/maps/contrib/104296340803495546267"
+    }
+  ],
+  "reviews": [
+    {
+      "author": "Yolanda Vg",
+      "authorPhoto": "https://lh3.googleusercontent.com/a-/ALV-UjXbHAHdhkDTQQjIW9Ce-lIBxAHRaxTr4j9zJNhgzmr90w3GAig=s128-c0x00000000-cc-rp-mo",
+      "authorUri": "https://www.google.com/maps/contrib/108222958737928620990/reviews",
+      "rating": 5,
+      "text": "Todo muy rico y el personal muy amable. Un ambiente muy agradable. Hemos repetido y lo seguiremos haciendo. Muy buen precio.",
+      "language": "es",
+      "relativeTime": "Hace 5 meses",
+      "publishTime": "2026-04-05T20:09:21.277303358Z"
+    },
+    {
+      "author": "ZAMPI NEWS",
+      "authorPhoto": "https://lh3.googleusercontent.com/a-/ALV-UjXs7tWTmgHf6ypwpUeGSrF08-pk0Y_AwEJXI7UfHCCrH7Tr74JD=s128-c0x00000000-cc-rp-mo-ba6",
+      "authorUri": "https://www.google.com/maps/contrib/100430891022289482541/reviews",
+      "rating": 5,
+      "text": "Buena calidad del producto. Proporción muy equilibrada de arroz y pescado, y atención inmejorable.",
+      "language": "es",
+      "relativeTime": "Hace 1 mes",
+      "publishTime": "2026-07-25T19:13:49.467060398Z"
+    },
+    {
+      "author": "Ana Alonso",
+      "authorPhoto": "https://lh3.googleusercontent.com/a-/ALV-UjXYPcgKNtub-9Ghbj-dcP6ohIDcY9YnBPrVHsu7sJCUDoGPrIc=s128-c0x00000000-cc-rp-mo-ba4",
+      "authorUri": "https://www.google.com/maps/contrib/102568634273161421838/reviews",
+      "rating": 5,
+      "text": "Comida buenísima y con una gran presentación. Servicio rápido y amable. Encima mas económico que otros de peor calidad, talmente recomendable.",
+      "language": "es",
+      "relativeTime": "Hace 5 meses",
+      "publishTime": "2026-03-30T12:43:05.752449569Z"
+    },
+    {
+      "author": "Vin",
+      "authorPhoto": "https://lh3.googleusercontent.com/a-/ALV-UjUBb12_TT63GrDihG8KtsVEFNK6Z9vW39T6vxeHAYI2_Sluc3vW=s128-c0x00000000-cc-rp-mo-ba3",
+      "authorUri": "https://www.google.com/maps/contrib/107201071666234794093/reviews",
+      "rating": 5,
+      "text": "He probado muchos buffets en Valencia y realmente este es un 20/10. Buen calidad-precio, los platos elaborados y se nota que son hechos con mucho esmero y amor. La atención fue amable y rapida. La espera con los platos es corta, salen recien hechos y calientes, todo muy rico la verdad. Lo recomiendo mucho y vale la pena el precio. Sin duda volveré.",
+      "language": "es",
+      "relativeTime": "Hace 2 meses",
+      "publishTime": "2026-06-28T14:21:20.223957327Z"
+    },
+    {
+      "author": "Xiang Mo ye",
+      "authorPhoto": "https://lh3.googleusercontent.com/a-/ALV-UjXNIPygbJv7MMp9Rvt3RiDLTgrJ6wXZxeRNOEqABR-BwzcdEKm7=s128-c0x00000000-cc-rp-mo",
+      "authorUri": "https://www.google.com/maps/contrib/114108187518408279521/reviews",
+      "rating": 5,
+      "text": "He ido solo a cenar , la atención fantástica me ha recibido una chica muy maja, la velocidad a la que llegaban los platos rápida y la comida muy buena! Recomiendo ir definitivamente.",
+      "language": "es",
+      "relativeTime": "Hace 5 meses",
+      "publishTime": "2026-04-09T20:09:55.750470712Z"
+    }
+  ]
+}
