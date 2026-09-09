@@ -469,25 +469,6 @@ h1, h2, h3, h4 {
   transform: scale(1.07);
 }
 
-.galeria button::after {
-  content: attr(data-autor);
-  position: absolute;
-  left: 0;
-  right: 0;
-  bottom: 0;
-  padding: 8px 10px 6px;
-  font-size: 0.7rem;
-  color: #fff;
-  background: linear-gradient(0deg, rgba(0,0,0,0.6), transparent);
-  opacity: 0;
-  transition: opacity 0.25s ease;
-  text-align: left;
-}
-
-.galeria button:hover::after {
-  opacity: 1;
-}
-
 @media (max-width: 860px) {
   .galeria {
     grid-template-columns: repeat(2, 1fr);
@@ -827,6 +808,9 @@ h1, h2, h3, h4 {
 
 .flotante .whatsapp { background: #25D366; }
 .flotante .reserva { background: var(--rojo); }
+.flotante .instagram {
+  background: radial-gradient(circle at 30% 110%, #fdf497 0%, #fdf497 5%, #fd5949 45%, #d6249f 60%, #285AEB 90%);
+}
 
 /* ---------- Utilidades ---------- */
 
